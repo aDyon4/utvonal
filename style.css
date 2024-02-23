@@ -1,0 +1,35 @@
+body {
+    background-color: beige;
+}
+
+.kozep{
+    margin: auto;
+    width: 700px;
+    height: 700px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#game {
+    font-size: 0px;
+    padding: 10px;
+}
+
+#game img{
+    border: 1px solid lightgrey;
+}
+
+#game img:hover{
+    background-color: lightgrey;
+}
+
+.lent img{
+    cursor: all-scroll;
+}
+
+.right{
+    float:right
+}
+.right img {
+    vertical-align: middle;
+}
